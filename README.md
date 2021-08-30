@@ -9,5 +9,5 @@ Required python package :
 
 3- pip install mediapipe
 
-Run the script and draw some heart and enjoy :)
+Run the script and draw some hearts and enjoy :)
 
